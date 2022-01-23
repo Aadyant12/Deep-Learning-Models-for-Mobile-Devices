@@ -8,4 +8,4 @@ This has been implemented on state-of-the-art neural networks like ResNet50, Den
   3) Experiment 3: Using weights from experiment 2 in the original model, training the rest of the model and measuring performance
   4) Experiment 4: In the early-exit models from experiment 2, using weights of original model from experiment 1, training only exit part of the model and measuring performance
 
-Along with this, the training time taken on Google Colab (GPU - NVIDIA Tesla T4) and personal machine (GPU - NVIDIA GeForce GTX 1660 Ti) was also noted.
+Along with this, the training time taken on Google Colab (GPU - NVIDIA Tesla T4) and personal machine (GPU - NVIDIA GeForce GTX 1660 Ti) was also noted for each of the experiments and networks.
