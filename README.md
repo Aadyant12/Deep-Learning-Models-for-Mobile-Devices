@@ -1,4 +1,6 @@
 # Exploring-early-exits
+_Done in collaboration with Prof. Dimitris Chatzopoulos - Computer Science, Hong Kong University Of Science and Technology_
+
 Experiment to explore the techniques of effectively splitting deep neural networks to reduce their training and inference time.
 This has been implemented on state-of-the-art neural networks like ResNet50, DenseNet169, MobileNet, VGG16 and EfficientNetB0.
 
